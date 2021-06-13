@@ -1,8 +1,9 @@
 1)Execute databases script given in folder on sql server 
 2) change connection string of web api project inside web.config for server name
 3)  same is required in .data project in app.config and other project app config
-4)  I have give mutistart of project in solution config so run project.
-5) Download nuget packages  or restore packages by set path for nuget is https://api.nuget.org/v3/index.json in visual studio.
+4)  Multistart projects : go to sulution properties and properties , select multi start option , select EvolentEHI.client and EvolentEHI.WebApi with start option
+5) Download nuget packages  or restore packages by set path for nuget is https://api.nuget.org/v3/index.json in visual studio if path no set in visual studio.
+
 
 project structure :
 
